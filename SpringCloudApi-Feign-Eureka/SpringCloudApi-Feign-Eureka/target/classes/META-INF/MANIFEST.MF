@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringCloud-Feign-Eureka
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ramidi.sowmya
+Implementation-Vendor-Id: SpringCloud-Feign-Eureka
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringCloud-Feign-Eureka
+Created-By: Maven Integration for Eclipse
+
